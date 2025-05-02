@@ -1,2 +1,2 @@
-# mrmeteo
+# Mr. Meteo
 Mr. Meteo
